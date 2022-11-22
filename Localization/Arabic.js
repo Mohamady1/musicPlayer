@@ -1,0 +1,21 @@
+export const ar = {
+  newSearch: "بحث جديد",
+  favoriteAlertTitle: "تنبيه ⚠️",
+  favoriteAlertMessage: "سوف تحذف جميع المفضلة",
+  cancelDeleteTitle: "تم ✅",
+  cancelDeleteMessage: "تم التراجع عن الحذف",
+  searchErrorTitle: "غير موجود",
+  searchErrorMessage:
+    "لم يتم العثور علي اغنية بهذا الاسم, تحقق من مصطلح البحث و حاول مرة اخري",
+  searchEmptyTitle: "لا استعلام",
+  searchEmptyMessage: "اكتب شيئا لتبحث عنه",
+  errorTitle: "حدث خطأ",
+  errorMessage: "لا يوجد ملف ل هذه الاغنية",
+  home: "الرئيسية",
+  favorites: "المفضلة",
+  categories: "التصنيفات",
+  search: "البحث",
+  emptyFavorite: "ليس لديك اي اغاني في المفضلة الان",
+  searchInput: "اكتب عبارة البحث",
+  searchButton: "ابحث",
+};

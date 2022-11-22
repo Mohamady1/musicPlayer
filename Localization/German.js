@@ -1,0 +1,21 @@
+export const de = {
+  newSearch: "Neue Suche",
+  favoriteAlertTitle: "Alert ⚠️",
+  favoriteAlertMessage: "Sie werden alle Favoriten LÖSCHEN",
+  cancelDeleteTitle: "Fertig ✅",
+  cancelDeleteMessage: "Löschvorgang rückgängig machen",
+  searchErrorTitle: "Nicht gefunden",
+  searchErrorMessage:
+    "Kein Sound mit diesem Namen gefunden, überprüfen Sie Ihren Suchbegriff und versuchen Sie es erneut",
+  searchEmptyTitle: "Keine Abfrage",
+  searchEmptyMessage: "Geben Sie etwas ein, nach dem gesucht werden soll",
+  errorTitle: "Fehler",
+  errorMessage: "Keine Songdatei gefunden",
+  home: "Haus",
+  favorites: "Lieblinge",
+  categories: "Kategorien",
+  search: "Suchen",
+  emptyFavorite: "Sie haben noch keine Favoriten",
+  searchInput: "Geben Suchbegriff ein",
+  searchButton: "Suchen",
+};

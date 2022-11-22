@@ -1,0 +1,21 @@
+export const fr = {
+  newSearch: "Nouvelle recherche",
+  favoriteAlertTitle: "Alerte ⚠️",
+  favoriteAlertMessage: "vous allez SUPPRIMER tous les favoris",
+  cancelDeleteTitle: "Terminé ✅",
+  cancelDeleteMessage: "Annuler le processus de suppression",
+  searchErrorTitle: "Introuvable",
+  searchErrorMessage:
+    "Aucun son trouvé par ce nom, vérifiez votre terme de recherche et réessayez",
+  searchEmptyTitle: "Aucune requête",
+  searchEmptyMessage: "Tapez quelque chose à rechercher",
+  errorTitle: "Erreur",
+  errorMessage: "Aucun fichier de morceau trouvé",
+  home: "Maison",
+  favorites: "Favoris",
+  categories: "Catégories",
+  search: "Chercher",
+  emptyFavorite: "Vous n'avez pas encore de favoris",
+  searchInput: "tapez votre terme de recherche",
+  searchButton: "Chercher",
+};

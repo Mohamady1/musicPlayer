@@ -1,0 +1,21 @@
+export const tr = {
+  newSearch: "Yeni Arama",
+  favoriteAlertTitle: "Uyarı ⚠️",
+  favoriteAlertMessage: "Tüm favorileri SİLİRSİNİZ",
+  cancelDeleteTitle: "Bitti ✅",
+  cancelDeleteMessage: "Silmeyi geri al",
+  searchErrorTitle: "Bulunamadı",
+  searchErrorMessage:
+    "Bu isimde Ses Bulunamadı, arama teriminizi kontrol edin ve tekrar deneyin",
+  searchEmptyTitle: "Sorgu Yok",
+  searchEmptyMessage: "Aramak için bir şey yazın",
+  errorTitle: "Hata",
+  errorMessage: "Şarkı Dosyası Bulunamadı",
+  home: "Ev",
+  favorites: "Favoriler",
+  categories: "Kategoriler",
+  search: "Arama",
+  emptyFavorite: "Henüz favoriniz yok",
+  searchInput: "Arama teriminizi yazın",
+  searchButton: "Arama",
+};
